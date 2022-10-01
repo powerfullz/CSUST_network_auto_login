@@ -7,7 +7,7 @@ import webbrowser
 
 init(autoreset=True)
 
-account_info = [[]]
+account_info = [['000024','000024']]
 
 def login():
     url = 'http://1.1.1.1/?isReback=1'
